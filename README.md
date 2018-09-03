@@ -1,5 +1,7 @@
 # tilee-calculator
 
+Calculates how many cermaic/glass/tiles are needed to cover a given area. 
+
 ## quick start 
 ``` bash
 cd tilee-calculator  
